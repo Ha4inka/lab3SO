@@ -1,0 +1,14 @@
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+B:\Univ\Rider\lab3SO\3\bin\Debug\net8.0\3.exe
+B:\Univ\Rider\lab3SO\3\bin\Debug\net8.0\3.deps.json
+B:\Univ\Rider\lab3SO\3\bin\Debug\net8.0\3.runtimeconfig.json
+B:\Univ\Rider\lab3SO\3\bin\Debug\net8.0\3.dll
+B:\Univ\Rider\lab3SO\3\bin\Debug\net8.0\3.pdb
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.dll
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\refint\3.dll
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.pdb
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+B:\Univ\Rider\lab3SO\3\obj\Debug\net8.0\ref\3.dll

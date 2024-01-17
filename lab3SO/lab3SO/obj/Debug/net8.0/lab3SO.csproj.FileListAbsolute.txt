@@ -1,0 +1,14 @@
+B:\Univ\Rider\lab3SO\lab3SO\bin\Debug\net8.0\lab3SO.exe
+B:\Univ\Rider\lab3SO\lab3SO\bin\Debug\net8.0\lab3SO.deps.json
+B:\Univ\Rider\lab3SO\lab3SO\bin\Debug\net8.0\lab3SO.runtimeconfig.json
+B:\Univ\Rider\lab3SO\lab3SO\bin\Debug\net8.0\lab3SO.dll
+B:\Univ\Rider\lab3SO\lab3SO\bin\Debug\net8.0\lab3SO.pdb
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.GeneratedMSBuildEditorConfig.editorconfig
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.AssemblyInfoInputs.cache
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.AssemblyInfo.cs
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.csproj.CoreCompileInputs.cache
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.dll
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\refint\lab3SO.dll
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.pdb
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\lab3SO.genruntimeconfig.cache
+B:\Univ\Rider\lab3SO\lab3SO\obj\Debug\net8.0\ref\lab3SO.dll
